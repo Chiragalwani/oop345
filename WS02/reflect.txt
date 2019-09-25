@@ -1,0 +1,17 @@
+/*********************
+Name : CHIRAG ALWANI
+ID   : 153444179
+DATE : 5 FEB 2019
+MAIL : CNALWANI@MYSENECA.CA
+***********************/
+1. the difference between internal and external linkage using examples from your code 
+Ans. in w1.cpp file I declared integer using extern keyword and initialize it into the string.cpp file it will tell the compiler that value assign in another translation unit so the compiler try to look for that.
+
+
+2. the execution effect of the code in the process() function that creates the String object which is inserted into standard output (which member function(s) does this code call) 
+
+Ans.in process.cpp file call the overload operator that declared in string.cpp file it will insert string into the stream.
+
+3. The changes that you made in upgrading your String class.
+Ans. update the string.h file I declared the character pointer for dynamic memory allocation.
+Also in string.cpp file I added dynamic memory allocation.

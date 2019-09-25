@@ -1,0 +1,18 @@
+/*********************
+Name : CHIRAG ALWANI
+ID   : 153444179
+DATE : 5 FEB 2019
+MAIL : CNALWANI@MYSENECA.CA
+***********************/
+1. The reason for specializing the sum() member function.
+Ans.
+we have to store sum of current objects into the V object also it insert the single space between the concatenating strings.
+
+2. The reason for specializing the initial value for a summation.
+Ans.
+initial value for stating of summation this is depend on type of value it can be integer or string.
+
+3. The reason for defining the class variable outside the class definition.
+Ans.
+the static variables we have to define outside of the class then it remain static throughout the whole program and it can be refer any other tarnslation unit.
+
